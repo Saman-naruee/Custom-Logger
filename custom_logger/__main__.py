@@ -1,4 +1,4 @@
-from logger import info, error
+from .logger import info, error
 
 def main():
     # Example CLI functionality - customize as needed
