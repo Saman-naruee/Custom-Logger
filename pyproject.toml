@@ -48,11 +48,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/custom-logger"
+Homepage = "https://github.com/Saman-naruee/Custom-Logger"
 Documentation = "https://custom-logger.readthedocs.io/"
-Repository = "https://github.com/your-username/custom-logger.git"
-Issues = "https://github.com/your-username/custom-logger/issues"
-Changelog = "https://github.com/your-username/custom-logger/blob/main/CHANGELOG.md"
+Repository = "https://github.com/Saman-naruee/Custom-Logger.git"
+Issues = "https://github.com/Saman-naruee/Custom-Logger/issues"
+Changelog = "https://github.com/Saman-naruee/Custom-Logger/blob/main/CHANGELOG.md"
 
 [project.scripts]
 custom-logger = "custom_logger.__main__:main"

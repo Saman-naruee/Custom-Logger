@@ -219,8 +219,8 @@ Contributions are welcome! Please:
 
 ## 🐛 Issues and Support
 
-- [Report Issues](https://github.com/your-username/custom-logger/issues)
-- [Discussions](https://github.com/your-username/custom-logger/discussions)
+- [Report Issues](https://github.com/Saman-naruee/Custom-Logger/issues)
+- [Discussions](https://github.com/Saman-naruee/Custom-Logger/discussions)
 - [Documentation](https://custom-logger.readthedocs.io/)
 
 ## 📚 More Examples
