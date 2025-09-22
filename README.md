@@ -28,7 +28,7 @@ pip install custom-logger-pkg
 
 ### From Source
 ```bash
-git clone https://github.com/your-username/custom-logger.git
+git clone https://github.com/Saman-naruee/Custom-Logger.git
 cd custom-logger
 pip install -e .
 ```

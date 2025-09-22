@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: custom-logger-pkg
-Version: 0.1.0
+Version: 0.2.0
 Summary: Professional Object-Oriented Logger for Python - Enhanced logging with SOLID principles
 Author-email: Saman Naruee <samannaruee@gmail.com>
 Maintainer-email: Saman Naruee <samannaruee@gmail.com>
@@ -68,7 +68,7 @@ pip install custom-logger-pkg
 
 ### From Source
 ```bash
-git clone https://github.com/your-username/custom-logger.git
+git clone https://github.com/Saman-naruee/Custom-Logger.git
 cd custom-logger
 pip install -e .
 ```
